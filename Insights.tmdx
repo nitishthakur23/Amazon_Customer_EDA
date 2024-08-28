@@ -1,0 +1,35 @@
+Amazon Customer Analysis - Exploratory Data Analysis (EDA)
+
+Introduction:
+The data has 23 features which have 18 object data type and 5 int64 data type features.
+The data set contains 602 records.
+Only 2 null values are present in the data in the Product_search_Method column, which can be ignored.
+
+Exploratory Data Analysis:
+
+1. On Basis Of Gender
+Observations:
+- Pie charts show that the majority of the customers are Female, contributing 58.5% of the total. Followed by Male (23.6%), Prefer not to say (14.8%), and Others (3.16%).
+- Sub-categories in Beauty, Fashion, and Clothing hold the top three most recommended positions for females.
+- Sub-categories in 'Others,' 'Clothing and Fashion,' and 'Beauty and Personal Care' occupy the top three most recommended positions for males.
+
+2. On Basis Of Age and Time Segment
+Observations:
+- The distribution shows a sharp peak at the age of 23, suggesting that teenagers are more frequent buyers compared to existing customers.
+- The top three age categories, Young Adult, Adult, and Middle-Aged Adult, contribute 95% of the total sales, followed by Minors and Senior Citizens.
+- The largest percentage (65.3%) of consumers prefer shopping at Night, followed by Evening with 15.4%, Afternoon with 14.6%, and Morning with 4.65%.
+
+3. On Basis Of Rating and Review
+Observations:
+- The overall rating given by customers is low, averaging at 2.46. The majority of users (34.71%) rated it as 3, followed by 32.22% who rated it as 2. A smaller percentage of users rated it as 1 (19.1%), while 11.12% and 2.8% of users rated it as 4 and 5, respectively.
+- Product recommendations, Competitive Price, and Wide Product selection are the top 3 appreciation factors with 185, 182, and 150 votes respectively.
+- Customer service, Product Quality, and Package waste reduction are the top 3 feedback areas that need improvement.
+
+4. On the Basis of Customer Behavior
+Observations:
+- More than half of customers complete their carts sometimes, followed by 26% who complete their carts often. 12% of consumers complete their carts rarely, and only 7.81% of customers always complete their carts.
+- 'Beauty and Personal Care' and 'Clothing and Fashion' have the highest retention rates among the 7.81% of repeat customers who always complete their cart.
+
+Summary:
+This exploratory data analysis of Amazon customer data reveals key insights into customer demographics, shopping behavior, and product feedback. Females constitute the majority of customers, and the age distribution highlights a peak in teenage buyers. Most shopping occurs at night, and the average customer rating is relatively low, indicating areas for improvement in customer service and product quality. High retention rates are observed in the Beauty and Personal Care and Clothing and Fashion categories. These insights can help in strategizing marketing efforts and enhancing customer satisfaction.
+
